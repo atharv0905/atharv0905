@@ -36,7 +36,7 @@
   <a href="https://instagram.com/_atharv_0905" target="blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/atharvmirgal09" target="blank">
+  <a href="https://www.leetcode.com/atharvmirgal" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" width="40" height="40"/>
   </a>
 </p>
