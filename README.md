@@ -12,11 +12,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv0905&theme=tokyonight" alt="atharv0905" />
 </p>
 
-- 🔭 I’m currently working on **Analytical Equipment Solutions**
+- 🔭 I’m currently working on **AY International**
 
-- 🌱 I’m currently learning **Java Spring Boot, Unreal Engine 5**
+- 🌱 I’m currently learning **Unreal Engine 5**
 
-- 💬 Ask me about **Node JS, Unreal Engine 5**
+- 💬 Ask me about **Spring Boot, Node JS, Unreal Engine 5**
 
 - 📫 How to reach me: **atharvmirgal09@gmail.com**
 
